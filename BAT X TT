@@ -9,17 +9,6 @@
     <meta property="og:description" content="Website interativo sobre a correlação entre termografia infravermelha da gordura marrom e mudanças térmicas dentárias">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image">
-    
-    <!-- Tailwind CSS -->
-    <script src="https://cdn.tailwindcss.com"></script>
-    
-    <!-- Chart.js -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-    
-    <!-- Three.js -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-    
-    <!-- Custom CSS -->
     <style>
         .gradient-bg {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
